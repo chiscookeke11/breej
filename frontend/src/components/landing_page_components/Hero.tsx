@@ -2,7 +2,7 @@ import HeroRight from "./HeroRight";
 
 export default function Hero() {
   return (
-    <section className="flex min-h-[50vh]  flex-col items-center justify-center gap-10 px-[5%] py-20 md:flex-row  md:py-36">
+    <section className="flex min-h-[50vh]  flex-col items-center justify-center gap-10 px-[5%] py-20 md:flex-row  md:py-48">
       {/* LEFT SIDE */}
       <div className="w-full max-w-155 flex flex-col gap-6 text-center md:text-left  ">
         <h1 className="text-5xl font-bold md:text-[80px] font-times  text-[#272927]  ">

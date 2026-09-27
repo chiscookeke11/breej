@@ -28,3 +28,13 @@ export interface stats_data_type {
     metric: string,
     subtext: string
 }
+
+
+export interface Testimonial_Interface {
+    name: string,
+    role: string,
+    rating: number,
+    message: string,
+    tilt: number,
+    image: string;
+}

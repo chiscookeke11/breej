@@ -1,4 +1,4 @@
-import { top_jobs_data } from "../../data/top_jobs"
+import { top_jobs_data } from "../../../data/top_jobs"
 
 
 export default function HeroText() {

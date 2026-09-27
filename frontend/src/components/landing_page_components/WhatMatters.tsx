@@ -1,4 +1,4 @@
-import { matters_data } from "../../data/matters_data_"
+import { matters_data } from "../../../data/matters_data_"
 
 export default function WhatMatters() {
     return (
