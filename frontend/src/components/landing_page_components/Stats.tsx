@@ -1,4 +1,4 @@
-import { stats_data } from "../../data/stats_data"
+import { stats_data } from "../../../data/stats_data"
 
 
 

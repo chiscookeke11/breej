@@ -1,4 +1,4 @@
-import { partner_data } from "../../data/partners_data"
+import { partner_data } from "../../../data/partners_data"
 
 
 

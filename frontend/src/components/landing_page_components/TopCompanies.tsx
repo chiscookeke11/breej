@@ -1,4 +1,4 @@
-import { top_companies_data } from "../../data/top_companies_data"
+import { top_companies_data } from "../../../data/top_companies_data"
 
 
 export default function TopCompanies() {
@@ -12,8 +12,6 @@ export default function TopCompanies() {
                 500 companies to bring the best jobs in tech and finance to you.</p>
 
             <div className=" w-full max-w-7xl  mt-10 grid grid-cols-1 md:grid-cols-3 place-items-center justify-center gap-4  " >
-
-
 
                 {
                     top_companies_data.map((company, i) => (
